@@ -6,27 +6,27 @@
 
 [2.11.【李宏毅机器学习】自注意力机制 (Self-attention(P2)_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1cV411X7XN?p=2&vd_source=86c5566b7e9902bcff1d7afc20ffe05b)
 
-![image-20240412202921313](assets/image-20240412202921313.png)
+![image-20240412202921313](https://raw.githubusercontent.com/DarrenLu666888/Markdown4Zhihu/master/Data/habana_gaudi/image-20240412202921313.png)
 
-![image-20240412202656711](assets/image-20240412202656711.png)
+![image-20240412202656711](https://raw.githubusercontent.com/DarrenLu666888/Markdown4Zhihu/master/Data/habana_gaudi/image-20240412202656711.png)
 
-![image-20240412202703268](assets/image-20240412202703268.png)
+![image-20240412202703268](https://raw.githubusercontent.com/DarrenLu666888/Markdown4Zhihu/master/Data/habana_gaudi/image-20240412202703268.png)
 
-![image-20240412202712803](assets/image-20240412202712803.png)
+![image-20240412202712803](https://raw.githubusercontent.com/DarrenLu666888/Markdown4Zhihu/master/Data/habana_gaudi/image-20240412202712803.png)
 
 **Matrix!!!**
 
-![image-20240412203304493](assets/image-20240412203304493.png)
+![image-20240412203304493](https://raw.githubusercontent.com/DarrenLu666888/Markdown4Zhihu/master/Data/habana_gaudi/image-20240412203304493.png)
 
-![image-20240412203456375](assets/image-20240412203456375.png)
+![image-20240412203456375](https://raw.githubusercontent.com/DarrenLu666888/Markdown4Zhihu/master/Data/habana_gaudi/image-20240412203456375.png)
 
-![image-20240412203628718](assets/image-20240412203628718.png)
+![image-20240412203628718](https://raw.githubusercontent.com/DarrenLu666888/Markdown4Zhihu/master/Data/habana_gaudi/image-20240412203628718.png)
 
 **Multi-Head-Attention**
 
-![image-20240412203940363](assets/image-20240412203940363.png)
+![image-20240412203940363](https://raw.githubusercontent.com/DarrenLu666888/Markdown4Zhihu/master/Data/habana_gaudi/image-20240412203940363.png)
 
-![image-20240412204028650](assets/image-20240412204028650.png)
+![image-20240412204028650](https://raw.githubusercontent.com/DarrenLu666888/Markdown4Zhihu/master/Data/habana_gaudi/image-20240412204028650.png)
 
 
 
@@ -40,31 +40,31 @@
 
 ### Encoder
 
-![image-20240413135140300](assets/image-20240413135140300.png)
+![image-20240413135140300](https://raw.githubusercontent.com/DarrenLu666888/Markdown4Zhihu/master/Data/habana_gaudi/image-20240413135140300.png)
 
 
 
 ### Decoder
 
-![image-20240413140013177](assets/image-20240413140013177.png)
+![image-20240413140013177](https://raw.githubusercontent.com/DarrenLu666888/Markdown4Zhihu/master/Data/habana_gaudi/image-20240413140013177.png)
 
-![image-20240413144046706](assets/image-20240413144046706.png)
+![image-20240413144046706](https://raw.githubusercontent.com/DarrenLu666888/Markdown4Zhihu/master/Data/habana_gaudi/image-20240413144046706.png)
 
 ### mask-self-attention
 
-![image-20240413144113628](assets/image-20240413144113628.png)
+![image-20240413144113628](https://raw.githubusercontent.com/DarrenLu666888/Markdown4Zhihu/master/Data/habana_gaudi/image-20240413144113628.png)
 
-![image-20240413144145149](assets/image-20240413144145149.png)
+![image-20240413144145149](https://raw.githubusercontent.com/DarrenLu666888/Markdown4Zhihu/master/Data/habana_gaudi/image-20240413144145149.png)
 
 ### Auto-regressive
 
-![image-20240413144509960](assets/image-20240413144509960.png)
+![image-20240413144509960](https://raw.githubusercontent.com/DarrenLu666888/Markdown4Zhihu/master/Data/habana_gaudi/image-20240413144509960.png)
 
  ### cross-attention
 
-![image-20240413144709516](assets/image-20240413144709516.png)
+![image-20240413144709516](https://raw.githubusercontent.com/DarrenLu666888/Markdown4Zhihu/master/Data/habana_gaudi/image-20240413144709516.png)
 
-![image-20240413144755909](assets/image-20240413144755909.png)
+![image-20240413144755909](https://raw.githubusercontent.com/DarrenLu666888/Markdown4Zhihu/master/Data/habana_gaudi/image-20240413144755909.png)
 
 ### 非线性运算
 
@@ -95,21 +95,21 @@
 
 **第一代**
 
-![../_images/Gaudi_Processor_High_Level_Architecture.jpg](assets/Gaudi_Processor_High_Level_Architecture.jpg)
+![../_images/Gaudi_Processor_High_Level_Architecture.jpg](https://raw.githubusercontent.com/DarrenLu666888/Markdown4Zhihu/master/Data/habana_gaudi/Gaudi_Processor_High_Level_Architecture.jpg)
 
 **第二代**
 
-![image-20240414174033578](assets/image-20240414174033578.png)
+![image-20240414174033578](https://raw.githubusercontent.com/DarrenLu666888/Markdown4Zhihu/master/Data/habana_gaudi/image-20240414174033578.png)
 
 **第三代**
 
 [Intel® Gaudi® 3 AI Accelerator White Paper](https://www.intel.cn/content/www/cn/zh/content-details/817486/intel-gaudi-3-ai-accelerator-white-paper.html)
 
-![image-20240416145513131](assets/image-20240416145513131.png)
+![image-20240416145513131](https://raw.githubusercontent.com/DarrenLu666888/Markdown4Zhihu/master/Data/habana_gaudi/image-20240416145513131.png)
 
-![image-20240416145804170](assets/image-20240416145804170.png)
+![image-20240416145804170](https://raw.githubusercontent.com/DarrenLu666888/Markdown4Zhihu/master/Data/habana_gaudi/image-20240416145804170.png)
 
-![image-20240423164841260](assets/image-20240423164841260.png)
+![image-20240423164841260](https://raw.githubusercontent.com/DarrenLu666888/Markdown4Zhihu/master/Data/habana_gaudi/image-20240423164841260.png)
 
 1. (GE)MME: 支持计算类型：全连接层，卷积，批-通用矩阵乘
 2. TPC(Tensor Processor Core)
@@ -180,7 +180,7 @@
 
 具体gaudi3 的计算性能参数
 
-![image-20240416102311311](assets/image-20240416102311311.png)
+![image-20240416102311311](https://raw.githubusercontent.com/DarrenLu666888/Markdown4Zhihu/master/Data/habana_gaudi/image-20240416102311311.png)
 
 
 
@@ -191,7 +191,7 @@
 2. gen2: FP32, TF32, BF16, FP16 & FP8 (both E4M3 and E5M2) 
 
 3. gen3:
-   ![image-20240415172531149](assets/image-20240415172531149.png)
+   ![image-20240415172531149](https://raw.githubusercontent.com/DarrenLu666888/Markdown4Zhihu/master/Data/habana_gaudi/image-20240415172531149.png)
 
    整型支持UINT32, INT32,  UINT16, INT16, UINT8 and INT8
 
@@ -214,7 +214,7 @@ guidi是可以支持训练的，**融合pytorch的软件栈**提供训练和推�
 
 ### 软件支持
 
-![../_images/Intel_Gaudi_Software_Suite_new.jpg](assets/Intel_Gaudi_Software_Suite_new.jpg)
+![../_images/Intel_Gaudi_Software_Suite_new.jpg](https://raw.githubusercontent.com/DarrenLu666888/Markdown4Zhihu/master/Data/habana_gaudi/Intel_Gaudi_Software_Suite_new.jpg)
 
 Gaudi 软件栈 和 pytorch集成在一起，并为gaudi 进行了优化；
 
@@ -242,7 +242,7 @@ intel gaudi 和其他AI芯片主要的不同之处在于 以太网互联（主�
 
 [Processor Architectural Overview](https://docs.habana.ai/en/latest/TPC/TPC_User_Guide/Processor_Architectural_Overview.html)
 
-![image-20240416113920907](assets/image-20240416113920907.png)
+![image-20240416113920907](https://raw.githubusercontent.com/DarrenLu666888/Markdown4Zhihu/master/Data/habana_gaudi/image-20240416113920907.png)
 
 **指令槽和流水线**
 
@@ -253,7 +253,7 @@ intel gaudi 和其他AI芯片主要的不同之处在于 以太网互联（主�
 - VPU slot - performs vector arithmetic.
 - Store slot - stores to memory, moves and set values.
 
-![../../_images/Example_TPC_Instruction_Assembly.jpg](assets/Example_TPC_Instruction_Assembly.jpg)
+![../../_images/Example_TPC_Instruction_Assembly.jpg](https://raw.githubusercontent.com/DarrenLu666888/Markdown4Zhihu/master/Data/habana_gaudi/Example_TPC_Instruction_Assembly.jpg)
 
 **exposed pipeline architecture**: 流水线各个阶段对程序员可见，内置函数提供直接编写这些阶段的代码
 
@@ -271,7 +271,7 @@ intel gaudi 和其他AI芯片主要的不同之处在于 以太网互联（主�
 
 缺点：需要指令集支持（硬件修改），需要编译器专门支持，执行的无效指令增加
 
-![image-20240423142808304](assets/image-20240423142808304.png)
+![image-20240423142808304](https://raw.githubusercontent.com/DarrenLu666888/Markdown4Zhihu/master/Data/habana_gaudi/image-20240423142808304.png)
 
 SPU 支持标量谓词执行，基于单一的条件值（一个标量寄存器的值）来决定是否执行相应的指令，适用于操作基于单个数据点的情况
 
@@ -297,13 +297,13 @@ local memory 在每个周期内读取或写入，没有带宽限制
 
 #### MME
 
-![image-20240416103226792](assets/image-20240416103226792.png)
+![image-20240416103226792](https://raw.githubusercontent.com/DarrenLu666888/Markdown4Zhihu/master/Data/habana_gaudi/image-20240416103226792.png)
 
 这里的Cache就是On-die SRAM，MME0，MME2，MME4和MME6都从张量A的上部拉动，而MME0和MME1共享四分之一的TensorB
 
 **将一个大MME分为多个小MME块的优点:**
 
-![image-20240416112642235](assets/image-20240416112642235.png)
+![image-20240416112642235](https://raw.githubusercontent.com/DarrenLu666888/Markdown4Zhihu/master/Data/habana_gaudi/image-20240416112642235.png)
 
 首先，a和b均有256x256个MAC，均可同时进行256x256个计算，但a中具体计算过程“可以”是
 
@@ -326,7 +326,7 @@ NVLink是一种解决服务器内**GPU之间**通信限制的协议, 第四代NV
 
 NVSwitch芯片是一种物理芯片，类似于交换机ASIC，可通过高速的NVLink接口连接多个GPU，提高服务器内的通信和带宽。
 
-![image-20240423145527491](assets/image-20240423145527491.png)
+![image-20240423145527491](https://raw.githubusercontent.com/DarrenLu666888/Markdown4Zhihu/master/Data/habana_gaudi/image-20240423145527491.png)
 
 
 
@@ -336,7 +336,7 @@ Gaudi3 加速器网络子系统拥有 24 个 200 千兆位以太网网卡端口�
 
 [1. RDMA概述 - 知乎 (zhihu.com)](https://zhuanlan.zhihu.com/p/138874738)
 
-![img](assets/v2-98f891e5008a599249f440c637b650ec_1440w.webp)
+![img](https://raw.githubusercontent.com/DarrenLu666888/Markdown4Zhihu/master/Data/habana_gaudi/v2-98f891e5008a599249f440c637b650ec_1440w.webp)
 
 在使用了RDMA技术时，两端的CPU几乎不用参与数据传输过程（只参与控制面）。本端的网卡直接从内存的用户空间DMA拷贝数据到内部存储空间，然后硬件进行各层报文的组装后，通过物理链路发送到对端网卡。对端的RDMA网卡收到数据后，剥离各层报文头和校验码，通过DMA将数据直接拷贝到用户空间内存中。
 
